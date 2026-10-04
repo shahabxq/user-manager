@@ -3,7 +3,7 @@
 
 1 add user
 
-2 shoe user
+2 show user
 
 3 edit users
 
